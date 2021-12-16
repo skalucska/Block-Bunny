@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="78" height="8" tilewidth="32" tileheight="32" infinite="0" nextlayerid="5" nextobjectid="39">
+ <tileset firstgid="1" name="blocks" tilewidth="32" tileheight="32" tilecount="3" columns="3">
+  <image source="blocks.png" width="96" height="32"/>
+ </tileset>
+ <tileset firstgid="4" source="blocks summer.tsx"/>
+ <tileset firstgid="7" source="blocks automn.tsx"/>
+ <tileset firstgid="10" source="blocks printan.tsx"/>
+ <layer id="1" name="red" width="78" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjETADsUDaRet3cCOBY8C0gG2cKR2WI7GzcgFuNIXejqD8Rnp7UACgJD7SU3bxOoFALIeASE=
+  </data>
+ </layer>
+ <layer id="2" name="green" width="78" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYCANcBCBBxMgxr30cPdgCxdCAJd7R8MNP8Dn3sGcT0gBpLidWL8SUjcYwo0cN5DjXnLsICbshiugJG0Q0ktMOUgNMFzKBhigR70wXMKKEgAAhBQCKQ==
+  </data>
+ </layer>
+ <layer id="3" name="blue" width="78" height="8">
+  <data encoding="base64" compression="zlib">
+   eJxjYBicgHOgHTBEwWi4kQdGw408QGq4caLhkQoGo9+pHS+EzCPHrsEYbkMBjIYbeQC9vKIkHLGZRan5AE4VATM=
+  </data>
+ </layer>
+ <objectgroup id="4" name="crystals">
+  <object id="1" x="272" y="145">
+   <ellipse/>
+  </object>
+  <object id="2" x="304" y="145">
+   <ellipse/>
+  </object>
+  <object id="4" x="753" y="49">
+   <ellipse/>
+  </object>
+  <object id="5" x="786" y="49">
+   <ellipse/>
+  </object>
+  <object id="19" x="400" y="211">
+   <ellipse/>
+  </object>
+  <object id="20" x="495" y="176">
+   <ellipse/>
+  </object>
+  <object id="21" x="625" y="112">
+   <ellipse/>
+  </object>
+  <object id="23" x="944" y="141">
+   <ellipse/>
+  </object>
+  <object id="24" x="1037" y="105">
+   <ellipse/>
+  </object>
+  <object id="25" x="1135" y="76">
+   <ellipse/>
+  </object>
+  <object id="26" x="1296" y="206">
+   <ellipse/>
+  </object>
+  <object id="27" x="1392" y="143">
+   <ellipse/>
+  </object>
+  <object id="28" x="1519" y="80">
+   <ellipse/>
+  </object>
+  <object id="29" x="1681" y="208">
+   <ellipse/>
+  </object>
+  <object id="30" x="1712" y="205">
+   <ellipse/>
+  </object>
+  <object id="31" x="1808" y="207">
+   <ellipse/>
+  </object>
+  <object id="32" x="1934" y="142">
+   <ellipse/>
+  </object>
+  <object id="33" x="2095" y="207">
+   <ellipse/>
+  </object>
+  <object id="34" x="2256" y="206">
+   <ellipse/>
+  </object>
+  <object id="35" x="2350" y="141">
+   <ellipse/>
+  </object>
+  <object id="36" x="2448" y="111">
+   <ellipse/>
+  </object>
+  <object id="38" x="2479" y="108">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>
